@@ -38,14 +38,14 @@
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=arunmurugesan02" alt="arunmurugesan02" /></a> </p>
 
 <a href="">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=arunmurugesan02&show_icons=true&locale=en&layout=compact" alt="arunmurugesan02" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=arunmurugesan02&show_icons=true&include_all_commits=true&count_private=true&theme=react&line_height=40" alt="arunmurugesan02" />
  </a>
  
  <a href="">
- <img align="center"  src="https://github-readme-stats.vercel.app/api?username=arunmurugesan02&show_icons=true&locale=en" alt="arunmurugesan02" />
+ <img align="center"  src="https://github-readme-stats.vercel.app/api?username=arunmurugesan02&show_icons=true&include_all_commits=true&count_private=true&theme=react&line_height=40" alt="arunmurugesan02" />
  </a>
- <br>
- <br>
+ <br/>
+ <br/>
  <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=arunmurugesan02&" alt="arunmurugesan02" /></p>
 </div>
 <br>
