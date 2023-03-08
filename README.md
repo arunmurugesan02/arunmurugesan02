@@ -1,4 +1,4 @@
-<!-- [![MasterHead](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTtthdLuIGpO4jobk3Z_4iim0kjzI5iDeiRsw&usqp=CAU)](https://arunmurugesan.io) -->
+![logo](https://github.com/arunmurugesan02/arunmurugesan02/blob/main/banner.png?raw=true)
 <h1 align="center">Hi 👋, I'm Arun Murugesan 😁</h1>
 <h3 align="center">I'm Software Engineer</h3>
 <img align="right" alt="Coding" width="350" src="https://miro.medium.com/max/1360/0*7Q3yvSIv_t0ioJ-Z.gif">
